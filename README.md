@@ -10,4 +10,4 @@ A simple code editor made in python
 
 ### Side Notes:
 1. The UI is very basic cuz this is an alpha after all
-2. some parts of the code are ai-genrated although they are really smal the reason they exist is because there are things i     couldn't troubleshoot so i used ai
+2. some parts of the code are ai-genrated although they are really small the reason they exist is because there are things i     couldn't troubleshoot so i used ai. it's only about 2.5 to 5%
